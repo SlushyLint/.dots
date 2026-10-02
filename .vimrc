@@ -238,3 +238,6 @@ highlight PmenuSbar guibg=#3B4252
 highlight PmenuThumb guibg=#88C0D0
 let g:lsp_completion_documentation_enabled = 0
 " run go install golang.org/x/tools/cmd/goimports@latestt
+
+
+" run curl -fLo ~/.vim/autoload/plug.vim --create-dirs https://raw.githubusercontent.com/junegunn/vim-plug/master/plug.vim
